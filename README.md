@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/AJAX.png" alt="Ajax-Extra-FeaturesLogo">
+  <img src="assets/AJAX.png" alt="Hari_OP">
 </p>
 <h1 align="center">
-  <b>𝙰𝙹𝙰𝚇-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
+  <b>Hari_OP</b>
 </h1>
 
 <a href="https://youtube.com/channel/UCj9rAtz7yI2OD84mSM2KJdQ">
